@@ -28,7 +28,7 @@ There is a lot to unpack when learning LangChain, but at a high level there are 
 - Agents: the Agent interface offers flexibility for applications needing a chain of calls to various tools based on user input. Agents can choose from a suite of tools, use multiple tools together, and decide on actions at each timestep (Action agents) or plan a sequence of actions upfront and execute them (Plan-and-execute agents).
 <table width="256px">
   <tr>
-    <td><img src="/articles/langchain/langchain.png"/></td>
+    <td><img src="./articles/langchain/langchain.png"/></td>
   </tr>
   <tr>
     <td align="center">Smarti on LangChain</td>
