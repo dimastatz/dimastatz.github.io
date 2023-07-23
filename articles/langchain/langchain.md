@@ -11,7 +11,7 @@ We can use LangChain Framework to build chatbots, Generative Question-Answering 
 To clarify how LangChain simplifies the development process, let's examine the key components of the framework and apply them to the development of a virtual assistant for students called Smarti. Smarti provides students with a step-by-step explanation of how to solve problems from the student workbook. Essentially, Smarti has two flows: ingest flow and chat flow. Ingest flow is fairly simple, a student scans and uploads workbooks. Smarti performs the OCR job that translates images to text, parses questions, and sends each question to ChatGPT. ChatGPT solves the problem and sends the solution back to Smarti. Smarti combines questions and solutions to the text file and builds a local [Semantic Index](https://en.wikipedia.org/wiki/Latent_semantic_analysis). Doing so, each new problem is solved only once by the ChatGPT. The chat flow begins when the student's input is read and sent to Smarti for problem-solving. On the first attempt, Smarti tries to use PrivateGPT which uses a local Semantic Index. If the problem is found in the local semantic index, the step-by-step solution is served immediately. If the problem is not solved, Smarti uses ChatGPT to solve the problem and updates the local Semantic Index, and then serves the student's request.
 <table width="256px">
   <tr>
-    <td><img src="./images/sequence-1.png"/></td>
+    <td><img src="./articles/langchain/sequence-1.png"/></td>
   </tr>
   <tr>
     <td align="center">Smarti's Chat Flow</td>
