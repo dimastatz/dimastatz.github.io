@@ -36,7 +36,15 @@ There is a lot to unpack when learning LangChain, but at a high level there are 
 </table>
 
 ## Implementation
-Let's use code examples to make the idea of LangChain more tangible and easier to understand. 
+Let's use code examples to make the idea of the LangChain more tangible and easier to understand. First create and activate a virtual environment by executing the following command.
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+Install langchain, openai and python-environ libraries using pip.
+```
+pip install langchain openai python-environ
+```
 
 
 
