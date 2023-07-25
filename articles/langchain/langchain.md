@@ -35,7 +35,8 @@ There is a lot to unpack when learning LangChain, but at a high level there are 
   </tr>
 </table>
 
-## Implementation 
+## Implementation
+Let's use code examples to make the idea of LangChain more tangible and easier to understand. 
 
 
 
