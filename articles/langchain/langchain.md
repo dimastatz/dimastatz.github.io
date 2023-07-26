@@ -45,6 +45,28 @@ Install langchain, openai and python-environ libraries using pip.
 ```
 pip install langchain openai python-environ
 ```
+Create OpenAI LLM and run a simple query
+```python
+import os
+from langchain.llms import OpenAI
+from langchain import PromptTemplate, LLMChain
+
+
+API_KEY = os.environ['OA_KEY']
+
+# simple call 
+llm = OpenAI(model_name="text-davinci-003", openai_api_key=API_KEY)
+question = "provide step by step solution to 2*3 + 4*5"
+print(question, llm(question))
+
+# basic prompt
+template = "What are the top {n} resources to learn math?"
+prompt = PromptTemplate(template=template,input_variables=['n'])
+chain = LLMChain(llm=llm,prompt=prompt)
+input = {'n':3}
+print(chain.run(input))
+```
+
 
 
 
