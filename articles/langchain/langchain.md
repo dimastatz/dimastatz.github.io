@@ -59,7 +59,7 @@ llm = OpenAI(model_name="text-davinci-003", openai_api_key=API_KEY)
 question = "provide step by step solution to 2*3 + 4*5"
 print(question, llm(question))
 
-# basic prompt
+# basic prompt 
 template = "What are the top {n} resources to learn math?"
 prompt = PromptTemplate(template=template,input_variables=['n'])
 chain = LLMChain(llm=llm,prompt=prompt)
