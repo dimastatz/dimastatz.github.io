@@ -2,6 +2,8 @@
 <html lang="en" dir="auto">
 
 <head>
+<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+<meta charset="utf-8">
 <meta name="generator" content="Hugo 0.92.2" /><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -28,6 +30,13 @@
             display: none;
         }
 
+    </style>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    
     </style>
     <style>
         @media (prefers-color-scheme: dark) {
@@ -167,7 +176,7 @@ if (!doNotTrack) {
                 </a>
             </li>
             <li>
-                <a href="./md2.html?src=README.md" title="Courses">
+                <a href="https://dimastatz.github.io/courses/" title="Courses">
                     <span>Courses</span>
                 </a>
             </li>
@@ -255,31 +264,9 @@ if (!doNotTrack) {
 </article>
 
 <article class="post-entry"> 
-  <header class="entry-header">
-    <h2>LLM Powered Autonomous Agents
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, GPT-Engineer and BabyAGI, serve as inspiring examples. The potentiality of LLM extends beyond generating well-written copies, stories, essays and programs; it can be framed as a powerful general problem solver.
-Agent System Overview In a LLM-powered autonomous agent system, LLM functions as the agent’s brain, complemented by several key components:...</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-06-23 00:00:00 +0000 UTC'>June 23, 2023</span>&nbsp;·&nbsp;31 min&nbsp;·&nbsp;Lilian Weng</footer>
-  <a class="entry-link" aria-label="post link to LLM Powered Autonomous Agents" href="https://dimastatz.github.io/posts/2023-06-23-agent/"></a>
+    <div style="width:70%; margin:0 auto;" id="mdcontainer">
+    </div>
 </article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2>Prompt Engineering
-    </h2>
-  </header>
-  <section class="entry-content">
-    <p>Prompt Engineering, also known as In-Context Prompting, refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.
-This post only focuses on prompt engineering for autoregressive language models, so nothing with Cloze tests, image generation or multimodality models....</p>
-  </section>
-  <footer class="entry-footer"><span title='2023-03-15 00:00:00 +0000 UTC'>March 15, 2023</span>&nbsp;·&nbsp;21 min&nbsp;·&nbsp;</footer>
-  <a class="entry-link" aria-label="post link to Prompt Engineering" href="https://dimastatz.github.io/posts/2023-03-15-prompt-engineering/"></a>
-</article>
-
 
 
     </main>
@@ -351,6 +338,28 @@ This post only focuses on prompt engineering for autoregressive language models,
         }
     })
 
+</script>
+<script>
+    function getQuery(key) {
+        var query = window.location.search.substring(1);
+        var key_values = query.split("&");
+        var params = {};
+        key_values.map(function (key_val) {
+            var key_val_arr = key_val.split("=");
+            params[key_val_arr[0]] = key_val_arr[1];
+        });
+        if (typeof params[key] != "undefined") {
+            return params[key];
+        }
+        return "";
+    }
+
+    window.onload = function () {
+        md = document.createElement("zero-md")
+        md.setAttribute("src", getQuery("src"))
+        md.setAttribute("no-shadow", "")
+        document.getElementById("mdcontainer").append(md)
+    }
 </script>
 </body>
 
