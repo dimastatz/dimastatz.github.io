@@ -102,16 +102,7 @@ if (!doNotTrack) {
 </head>
 
 <body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
 
-</script>
 
 <script>
   MathJax = {
@@ -210,11 +201,13 @@ if (!doNotTrack) {
     </footer>
 </article>
 
+<article class="post-entry"> 
+    <div style="width:70%; margin:0 auto;" id="mdcontainer">
+    </div>
+</article>
 
-<div style="width:70%; margin:0 auto;" id="mdcontainer">
-</div>
 
-</main>
+    </main>
     
 <footer class="footer">
     <span>&copy; 2023 <a href="https://dimastatz.github.io/">Dima Statz</a></span>
