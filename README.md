@@ -11,9 +11,10 @@ This repo contains the list of books that cover the core, timeless, ideas that c
 </table>  
 
 ## Math & Logic
-- [Critical Thinking & Logic Mastery](./critical-thinking-logic/)
-- [The Ten Equations That Rule the World](https://www.amazon.com/Ten-Equations-That-Rule-World-ebook/dp/B08FGV3KJC/ref=sr_1_1?crid=28PO2HM0QGFYL&keywords=The+Ten+Equations+that+Rule+the+World%3A&qid=1649533906&sprefix=the+ten+equations+that+rule+the+world+%2Caps%2C190&sr=8-1)
-- [Computational Thinking](./computational-thinking/)
+- [Critical Thinking & Logic Mastery by Thinknetic](./critical-thinking-logic/)
+- [Logic: A Very Short Introduction by Graham Priest](https://www.amazon.com/Logic-Very-Short-Introduction-Introductions-ebook/dp/B075KB9C3W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Introduction to Mathematical Philosophy by Bertrand Russell](https://amazon.com/Introduction-Mathematical-Philosophy-Bertrand-Russell-ebook/dp/B09Y5LNHL9/ref=sr_1_1?crid=2M5WXZ21HBOXN&keywords=Introduction+to+Mathematical+Philosophy&qid=1692297327&sprefix=introduction+to+mathematical+philosophy%2Caps%2C320&sr=8-1)
+- [The Book of Mathematical Principles, Theories & Things by Robert Solomon ](https://www.amazon.com/Little-Mathematical-Principles-Theories-Things-ebook/dp/B09NPBQR7Z/ref=zg_bs_g_159760011_sccl_1/134-1659129-0569007?psc=1#customerReviews)
 
 ## Physics
 - [Six Easy Pieces by R.Feynmann](./six-easy-pieces/)
