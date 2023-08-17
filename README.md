@@ -30,7 +30,7 @@ This repo contains the list of books that cover the core, timeless, ideas that c
 - [The Origin Of Species by C.Darwin](https://www.amazon.com/Origin-Species-150th-Anniversary-ebook/dp/B002JF1N0A/ref=sr_1_1?crid=2X7AD1IYNKQF3&keywords=darwin&qid=1649534334&s=digital-text&sprefix=darwin%2Cdigital-text%2C222&sr=1-1)
 
 ## Engineering & CS
-- [Computer Science curriculum](./my-recommended-books/cs-curriculum.md)
+- [Computer Science curriculum](.books/my-recommended-books/cs-curriculum.md)
 - [Structured Computer Organization](https://www.amazon.com/gp/product/B00IZ0B7YA/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
 - [Modern Operating Systems](https://www.amazon.com/gp/product/B013ROUMBM/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4)
 - [Computer Networks](https://www.amazon.com/gp/product/0132126958/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3)
@@ -56,13 +56,8 @@ This repo contains the list of books that cover the core, timeless, ideas that c
 
 ## Appendix 2: How to Learn
 - [Make It Stick: The Science of Successful Learning](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M/ref=sr_1_1?crid=1RXR8D5UCJL8T&keywords=Make+It+Stick%3A+The+Science+of+Successful+Learning&qid=1649536700&s=digital-text&sprefix=make+it+stick+the+science+of+successful+learning%2Cdigital-text%2C286&sr=1-1)
-- [ChatGPT - Prompt Engineering for Developers](./chatgpt-promt-engineering/README.md)
+- [How to Read a Book by Doren and Adler](https://www.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE/ref=sr_1_1?keywords=how+to+read+a+book&qid=1692299621&s=digital-text&sprefix=how+to+read+a+%2Cdigital-text%2C242&sr=1-1)
 
-## Appendix 3: Articles
-- [How to Choose the Right Database For Your Workload](./how-to-choose-database/README.md)
-- [Handling Data Skew in Apache Spark](https://itnext.io/handling-data-skew-in-apache-spark-9f56343e58e8)
-- [Benchmarking Graviton2 processors with Apache Spark workloads](https://dima-statz.medium.com/benchmarking-graviton2-processors-with-apache-spark-workloads-4bd9415374e7)
-- [Migrating Apache Spark workloads from AWS EMR to Kubernetes](https://itnext.io/migrating-apache-spark-workloads-from-aws-emr-to-kubernetes-463742b49fda)
 
 
 
