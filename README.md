@@ -1,7 +1,14 @@
 # Books, Courses, and Articles 
 
 ##  Introduction
-This repo contains the list of books that cover the core, timeless, ideas that change the way you see the world and improve your thinking. The list is higly inspired by the [Great Mental Model Project](https://fs.blog/tgmm/) and by the [Navals Ravikant's](https://www.navalmanack.com/navals-recommended-reading) reading list. It is important to read good books in the right order. The 'right' order is the bottom-up order, meaning starting from the most fundamental and moving to more advanced topics.  
+This repo contains the list of books that cover the core, timeless, ideas that change the way you see the world and improve your thinking. The list is higly inspired by the [Great Mental Model Project](https://fs.blog/tgmm/) and by the [Navals Ravikant's](https://www.navalmanack.com/navals-recommended-reading) reading list. It is important to read good books in the right order. The 'right' order is the bottom-up order, meaning starting from the most fundamental and moving to more advanced topics.
+
+<table width="256px">
+  <tr>
+    <td><img src="./books/my-recommended-books/science-chart.png"/></td>
+  </tr>
+  <tr><td align="center">Hierarchy of the Sciences</td></tr>
+</table>  
 
 ## Math & Logic
 - [Critical Thinking & Logic Mastery](./critical-thinking-logic/)
