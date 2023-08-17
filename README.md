@@ -1,7 +1,7 @@
-# Books, Courses, and Articles 
+# Books 
 
 ##  Introduction
-This repo contains the list of books that cover the core, timeless, ideas that change the way you see the world and improve your thinking. The list is higly inspired by the [Great Mental Model Project](https://fs.blog/tgmm/) and by the [Navals Ravikant's](https://www.navalmanack.com/navals-recommended-reading) reading list. It is important to read good books in the right order. The 'right' order is the bottom-up order, meaning starting from the most fundamental and moving to more advanced topics.
+This is the list of books that cover the core, timeless, ideas that change the way you see the world and improve your thinking. The list is highly inspired by the [Great Mental Model Project](https://fs.blog/tgmm/) and by the [Navals Ravikant's](https://www.navalmanack.com/navals-recommended-reading) reading list. It is important to read good books in the right order. The 'right' order is the bottom-up order, meaning starting from the most fundamental and moving to more advanced topics.
 
 <table width="256px">
   <tr>
@@ -49,6 +49,7 @@ This repo contains the list of books that cover the core, timeless, ideas that c
 ## Economics
 - [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith-ebook/dp/B08NPXBLYQ/ref=sr_1_1?crid=1MIER4Z2V7R2C&keywords=wealth+of+nations&qid=1649534408&s=digital-text&sprefix=wealth%2Cdigital-text%2C211&sr=1-1)
 - [Capital: Volume I](https://www.amazon.com/Capital-Critique-Political-Economy-Kapital-ebook/dp/B002XHNMN0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1649534564&sr=1-1)
+- [The Intelligent Investor by Benjamin Graham](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=sr_1_1?keywords=the+intelligent+investor&qid=1692300032&sprefix=the+inte%2Caps%2C237&sr=8-1)
 - [How the World Really Works: The Science Behind How We Got Here and Where We're Going](./how-the-world-works/)
 
 ## Appendix 1: Mental Models
