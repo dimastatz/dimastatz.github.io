@@ -28,12 +28,14 @@ There is a lot to unpack when learning LangChain, but at a high level there are 
 - Agents: the Agent interface offers flexibility for applications needing a chain of calls to various tools based on user input. Agents can choose from a suite of tools, use multiple tools together, and decide on actions at each timestep (Action agents) or plan a sequence of actions upfront and execute them (Plan-and-execute agents).
 <table width="256px">
   <tr>
-    <td><img src="https://github.com/dimastatz/dimastatz.github.io/blob/main/posts/langchain/langchain.png"/></td>
+    <td><img src="/posts/langchain/langchain.png"/></td>
   </tr>
   <tr>
     <td align="center">Smarti on LangChain</td>
   </tr>
 </table>
+
+![alt text for screen readers](./langchain.png "Text to show on mouseover").
 
 ## Implementation
 Let's use code examples to make the idea of the LangChain more tangible and easier to understand. First create and activate a virtual environment by executing the following command.
