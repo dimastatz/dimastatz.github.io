@@ -11,6 +11,7 @@ Here's a self-learning curriculum for Computer Science that covers fundamental t
 
 ## Courses and Books
 - [Structured Computer Organization](https://www.amazon.com/gp/product/B00IZ0B7YA/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
+- [Programming with 64-Bit ARM Assembly Language](https://www.amazon.com/Programming-64-Bit-ARM-Assembly-Language-ebook/dp/B0881Z2VJG/ref=sr_1_2?crid=37WB2CXX5OAKN&keywords=Raspberry+Pi+Operating+System+Assembly&qid=1692601376&s=digital-text&sprefix=raspberry+pi+operating+system+assembly%2Cdigital-text%2C207&sr=1-2)
 - [Modern Operating Systems](https://www.amazon.com/gp/product/B013ROUMBM/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4)
 - [Computer Networks](https://www.amazon.com/gp/product/0132126958/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i3)
 - [Data Structures and Algorithms in Python](./python-data-structures/)
