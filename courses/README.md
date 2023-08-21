@@ -1,7 +1,7 @@
 # Computer Science Curriculum
 
 ## Introductions
-Here's a self-learning curriculum for Computer Science that covers a fundumental topics.
+Here's a self-learning curriculum for Computer Science that covers fundamental topics.
 
 <table width="256px">
   <tr>
