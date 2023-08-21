@@ -17,6 +17,6 @@ Here's a self-learning curriculum for Computer Science that covers fundamental t
 - [Data Structures and Algorithms in Python](./python-data-structures/)
 - [Clean Architecture](./clean-architecture/)
 - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?keywords=design+patterns&qid=1650258328&s=books&sprefix=design+pa%2Cstripbooks-intl-ship%2C286&sr=1-1)
-- []
+- [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?)
 
 
