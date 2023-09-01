@@ -45,12 +45,18 @@ This is the list of books that cover the core, timeless, ideas that change the w
 
 ## Sociology
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_1?keywords=dale+carnegie&qid=1649534970&s=books&sprefix=dale+ca%2Cstripbooks-intl-ship%2C194&sr=1-1)
+- [The Good Life: Lessons from the World's Longest Scientific Study of Happiness](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X/ref=zg_bs_g_282914_sccl_3/134-1659129-0569007?psc=1)
 
 ## Economics
 - [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith-ebook/dp/B08NPXBLYQ/ref=sr_1_1?crid=1MIER4Z2V7R2C&keywords=wealth+of+nations&qid=1649534408&s=digital-text&sprefix=wealth%2Cdigital-text%2C211&sr=1-1)
 - [Capital: Volume I](https://www.amazon.com/Capital-Critique-Political-Economy-Kapital-ebook/dp/B002XHNMN0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1649534564&sr=1-1)
 - [The Intelligent Investor by Benjamin Graham](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=sr_1_1?keywords=the+intelligent+investor&qid=1692300032&sprefix=the+inte%2Caps%2C237&sr=8-1)
 - [How the World Really Works: The Science Behind How We Got Here and Where We're Going](./how-the-world-works/)
+
+## Law & Ethics
+- [The Theory of Moral Sentiments](https://www.amazon.com/Theory-Moral-Sentiments-Kindle-Active-ebook/dp/B002V1IOK4/ref=sr_1_3?crid=23I73Q9CDAXV4&keywords=adam+smith&qid=1693566338&sprefix=adam+smith%2Caps%2C229&sr=8-3)
+- [The Declaration of Independence](https://www.amazon.com/Declaration-Independence-Thomas-Jefferson-ebook/dp/B00KZFPG9K/ref=sr_1_7?keywords=the+declaration+of+independence&qid=1693566221&sprefix=the+decla%2Caps%2C222&sr=8-7)
+
 
 ## Appendix 1: Mental Models
 - [The Great Mental Models Volume 1,2,3: General Thinking Concepts](https://www.amazon.com/gp/product/B07P79P8ST/ref=as_li_qf_asin_il_tl?tag=farnamstreet-20&ie=UTF8&linkId=883df32fb862d9a4407c00d334c46272&geniuslink=true)
