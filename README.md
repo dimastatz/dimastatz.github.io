@@ -54,7 +54,7 @@ This is the list of books that cover the core, timeless, ideas that change the w
 - [How the World Really Works: The Science Behind How We Got Here and Where We're Going](./how-the-world-works/)
 
 ## Law & Ethics
-- [The Theory of Moral Sentiments by A.Smith](https://www.amazon.com/Theory-Moral-Sentiments-Kindle-Active-ebook/dp/B002V1IOK4/ref=sr_1_3?crid=23I73Q9CDAXV4&keywords=adam+smith&qid=1693566338&sprefix=adam+smith%2Caps%2C229&sr=8-3)
+- [The Theory of Moral Sentiments by A.Smith](./books/the-theory-of-moral-sentiments/README.md)
 - [The Declaration of Independence](https://www.amazon.com/Declaration-Independence-Thomas-Jefferson-ebook/dp/B00KZFPG9K/ref=sr_1_7?keywords=the+declaration+of+independence&qid=1693566221&sprefix=the+decla%2Caps%2C222&sr=8-7)
 
 
