@@ -25,7 +25,8 @@ Computer Science is the study of algorithms, data structures, and computational 
 
 ### Data Structures and Algorithms
 - [Data Structures and Algorithms in Python](./python-data-structures/)
-- []
+- [A Programmer's Guide to Computer Science](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught-ebook/dp/B07W8BMSKG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Introduction to Algorithms, fourth edition](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen-ebook/dp/B094WZNKP2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 
 ### Design Patterns and Software Architecture
@@ -37,7 +38,8 @@ Computer Science is the study of algorithms, data structures, and computational 
 - [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction?)
 
 
-### Block Chain
+### BlockChain
+- [Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-Distributed-technology-decentralization-ebook/dp/B077TXGD5Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1694168608&sr=1-15-catcorr)
 
 
 
