@@ -1,7 +1,7 @@
 # Computer Science Curriculum
 
 ## Introductions
-Here's a self-learning curriculum for Computer Science that covers fundamental topics.
+Computer Science is the study of algorithms, data structures, and computational systems. It covers everything from writing code to designing complex software. It's entirely possible to acquire a solid understanding of computer science as a self-learner. There are abundant online resources, courses, books and communities available. Consistent practice, hands-on projects, and a curious mindset are key to success.
 
 <table width="256px">
   <tr>
