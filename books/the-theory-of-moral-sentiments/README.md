@@ -5,4 +5,5 @@
 Reading "The Theory of Moral Sentiments" provides insight into Adam Smith's intellectual journey, illuminating the moral and philosophical foundations of his influential economic work, "The Wealth of Nations."
 
 ## Table of Contents
-s
+
+### 

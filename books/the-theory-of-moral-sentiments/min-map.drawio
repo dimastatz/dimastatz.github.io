@@ -1,0 +1,30 @@
+<mxfile host="65bd71144e">
+    <diagram id="cucpO8Dbr-mMYmkyEOZN" name="Page-1">
+        <mxGraphModel dx="835" dy="576" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&quot;The Theory of Moral Sentiments&quot; is a philosophical work written by Adam Smith, the renowned Scottish economist and philosopher, and it was first published in 1759. This book explores the nature of morality and ethics, focusing on the role of human emotions and sentiments in shaping moral behavior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#00CC00;strokeColor=#2D7600;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="331" y="475" width="218" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="The Role of Sympathy: Smith argues that human beings are naturally equipped with a sense of sympathy or empathy. We have an innate ability to understand and share the feelings of others. This sentiment of sympathy forms the basis of moral judgments." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="259" width="183" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontColor=#00FF00;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="196" y="596" as="sourcePoint"/>
+                        <mxPoint x="246" y="546" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#00FF00;" vertex="1" connectable="0" parent="4">
+                    <mxGeometry x="-0.0971" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="The Role of Sympathy: Smith argues that human beings are naturally equipped with a sense of sympathy or empathy. We have an innate ability to understand and share the feelings of others. This sentiment of sympathy forms the basis of moral judgments." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="260" width="183" height="160" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
