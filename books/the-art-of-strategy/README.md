@@ -5,3 +5,4 @@
 ## Background
 This book provides a comprehensive and accessible introduction to the world of game theory and strategic thinking, offering valuable insights for anyone interested in understanding and navigating complex decision-making situations. 
 
+## TBD
