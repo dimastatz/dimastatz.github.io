@@ -44,7 +44,7 @@ This is a curated list of books that delve into foundational, transformative ide
 - [The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient](https://www.amazon.com/Stoic-Challenge-Philosophers-Becoming-Resilient-ebook/dp/B07P9DC6TY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1649534731&sr=8-2)
 
 ## Sociology
-- [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life by Avinash K. Dixit and Barry J. J. Nalebuff](./books/the-art-of-strategy/README.md)
+- [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life by Avinash K. Dixit and Barry J. J. Nalebuff](./post_view.html?src=../books/the-art-of-strategy/README.md)
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_1?keywords=dale+carnegie&qid=1649534970&s=books&sprefix=dale+ca%2Cstripbooks-intl-ship%2C194&sr=1-1)
 - [The Good Life: Lessons from the World's Longest Scientific Study of Happiness](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X/ref=zg_bs_g_282914_sccl_3/134-1659129-0569007?psc=1)
 
