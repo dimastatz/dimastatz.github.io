@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="8Y4KH_lPB0XhC0yeXy73" name="Page-1">
+        <mxGraphModel dx="574" dy="565" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Hardware&lt;br&gt;AMD, NVIDIA, INTEL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="271" width="417" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Infrastructure&lt;br&gt;AMZN, MSFT, GOOG" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="223" width="208" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Developer Tools&lt;br&gt;OpenAI, Hugging Face" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="318" y="223" width="208" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Frameworks" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="176" width="417" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="111" y="127" width="417" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Applications B2B" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="79" width="207" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Applications B2C" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="316" y="80" width="211" height="48" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
