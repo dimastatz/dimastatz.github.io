@@ -13,7 +13,8 @@ LLMs are amazing at generating text and have a wide range of applications, but t
   </tr>
 </table> 
 
-RAG combines the capabilities of LLMs with the ability to retrieve relevant information from external documents. In RAG, an LLM retrieves contextual documents from an external DB to enhance its understanding and generate more accurate responses.
+RAG consists of two flows: domain data embedding and text generation. Embedding is the process by which text is given numerical representation in a vector space. Once domain data is embedded, LLM generates more accurate answers by text search.
+ 
+## The Straightforward Implementation
 
-## The Naive Implementation
 
