@@ -12,3 +12,8 @@ LLMs are amazing at generating text and have a wide range of applications, but t
     <td align="center">Retrieval Augmented Generation</td>
   </tr>
 </table> 
+
+RAG combines the capabilities of LLMs with the ability to retrieve relevant information from external documents. In RAG, an LLM retrieves contextual documents from an external DB to enhance its understanding and generate more accurate responses.
+
+## The Naive Implementation
+
