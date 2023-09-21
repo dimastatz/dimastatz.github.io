@@ -26,7 +26,7 @@ AI Developer tools are created by teams of AI Scientists and Software Engineers.
 ## Software Frameworks
 A team of skilled Software Developers can launch a business in this field without needing specific business or science expertise. Finding a niche here is less complicated compared to other domains. Here are just a couple of approaches. 
 1. Develop cost-effective alternatives to services offered by major companies like AWS, Azure, GCP. For example, AWS Transcribe, while powerful, can be expensive. This prompted the creation of budget-friendly frameworks with both free and premium versions.
-2. Search GitHub for widely used, labor-intensive functionalities. Develop a library with both free and premium versions to streamline these processes.
+2. Search GitHub for widely used, labor-intensive functionalities. Develop a library with both free and premium versions to streamline these processes. Web Scrappers are great example for a such an approach. There a bunch of frameworks that implement functioanity for scrapping financial data (yahoo-finance), news (newspaper3k), etc. 
 3. Translate a library from one programming language to another and create a library with free and premium versions. For examples, Plotly Pro is a paid Python library and can be translated to Java.
 
 ## Software Services
