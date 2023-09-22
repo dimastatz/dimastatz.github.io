@@ -29,8 +29,9 @@ A team of skilled Software Developers can launch a business in this field withou
 2. Search GitHub for widely used, labor-intensive functionalities. Develop a library with both free and premium versions to streamline these processes. Web Scrappers are great example for a such an approach. There a bunch of frameworks that implement functioanity for scrapping financial data (yahoo-finance), news (newspaper3k), etc. 
 3. Translate a library from one programming language to another and create a library with free and premium versions. For examples, Plotly Pro is a paid Python library and can be translated to Java.
 
+
 ## Software Services
-Software Services domain just like Software Frameworks can be profitable for software developers. However, creating Services is more challenging due to the need to manage infrastructure, deployment, and security. On the other hand, Services have a broader audience as businesses can directly use them, while Frameworks are primarily for other developers. Services creators should have a good understanding of bussiness they are going to serve. For example the following framework for finding the righ niche can work:
+Software Services, like Software Frameworks, can be a lucrative venture for developers. However, creating Services is more demanding due to the responsibilities of managing infrastructure, deployment, and security. On the other hand, Services have a wider user base, as both individuals and businesses can directly benefit from them, while Frameworks cater mainly to other developers. Creators of Services should possess a strong grasp of the specific business domain they intend to serve. For example the following framework for finding the righ niche might work:
 1. Choose a bissness and analyze the responsibilities of both employees. Break down each bussiness role into individual tasks.
 2. Evaluate if each task can benefit from assistance or automation through AI tools like supervised learning or generative AI.
 3. Evaluate the worth of these changes. If the new service can save approximately 80% of time in a specific business role, it is certainly worthwhile to develop it.
