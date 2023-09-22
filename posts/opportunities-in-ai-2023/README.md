@@ -1,7 +1,8 @@
-# AI Opportunities for Developers in 2023
+# Bussiness Opportunities for Developers in AI
+
 
 ## Background
-AI is a general purpose technology, meaning it is not usefull just for one thing, but it can be applied for a lots of different applications. Probably a good way to think about AI as a collection of tools: Supervised Learning, Generative AI, Unsupervised Learning and Reinforcement Learning. These tools can be used all over the AI stack, from Hardware to User Applications.
+As technologies advance, they create new business opportunities. Today, there a lot of hype around AI. AI has the potential to revolutionize industries, improve efficiency, and create innovative solutions to complex problems.  A good way to think about AI as a collection of tools: Supervised Learning, Generative AI, Unsupervised Learning and Reinforcement Learning. These tools can be used all over the AI stack, from Hardware to User Applications.
 
 <table width="256px">
   <tr>
@@ -12,7 +13,11 @@ AI is a general purpose technology, meaning it is not usefull just for one thing
   </tr>
 </table> 
 
-As AI technologies advance, they create fresh business opportunities. By breaking down existing jobs or business processes into tasks and assessing AI's potential to enhance or automate them, one can establish a successful new venture. This document aims to offer a Business Building Framework tailored for small teams of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
+This document aims to offer a Business Building Framework tailored for small teams of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
+
+
+## Automation vs Disruption
+Automation and disruption are two distinct concepts, associated with technological advancements. Automation focuses on optimizing and streamlining existing processes, while disruption aims to create entirely new paradigms, often through the introduction of groundbreaking technologies or business models. Disruptive businesses demand significant initial investment and considerable time for profitable scaling. That's why our framework, designed for small, financially limited developer teams, places a strong emphasis on Automation.
 
 
 ## Hardware and Infrastructure  
