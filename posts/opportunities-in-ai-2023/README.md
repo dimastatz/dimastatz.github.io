@@ -12,7 +12,7 @@ AI is a general purpose technology, meaning it is not usefull just for one thing
   </tr>
 </table> 
 
-AI technologies are evolving continiously and create new bussiness oportunities. Now it is time for the Generative AI to shine. The goal of this document is to explore new opportunities in AI in 2023. The focus will be on a money machine bussiness that can be created by a small group of Software Developers by applying their expertise and a limited using of financial leverage.
+AI technologies are evolving continiously and create new bussiness oportunities. The goal of this document is to explore new opportunities in AI in 2023. The focus will be on a small bussinesses that can be created by a small group of Software Developers by applying their expertise and a limited using of financial leverage.
 
 
 ## Hardware and Infrastructure  
@@ -30,7 +30,7 @@ A team of skilled Software Developers can launch a business in this field withou
 3. Translate a library from one programming language to another and create a library with free and premium versions. For examples, Plotly Pro is a paid Python library and can be translated to Java.
 
 
-## Software Services
+## Software Services (SAAS)
 Software Services, like Software Frameworks, can be a lucrative venture for developers. However, creating Services is more demanding due to the responsibilities of managing infrastructure, deployment, and security. On the other hand, Services have a wider user base, as both individuals and businesses can directly benefit from them, while Frameworks cater mainly to other developers. Creators of Services should possess a strong grasp of the specific business domain they intend to serve. For example the following framework for finding the righ niche might work:
 1. Choose a bissness and analyze the responsibilities of both employees. Break down each bussiness role into individual tasks.
 2. Evaluate if each task can benefit from assistance or automation through AI tools like supervised learning or generative AI.
@@ -38,8 +38,10 @@ Software Services, like Software Frameworks, can be a lucrative venture for deve
 
 
 ## Software Applications
+While SaaS excels in cloud-based computing, Software Applications provide distinct advantages in accessibility, user experience, device integration, and offline functionality. They complement SaaS solutions, meeting the preferences of users on a specific platform. Developing Software Applications is often more time-consuming and intricate compared to SaaS. It's recommended to consider building an app after establishing a successful SaaS, especially if you aim to expand functionality or reach a broader audience across Android, iPhone, MacOS or Windows users.
 
 
+## Summary
 
 
 
