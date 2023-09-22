@@ -12,7 +12,6 @@ AI is a general purpose technology, meaning it is not usefull just for one thing
   </tr>
 </table> 
 
-
 As AI technologies advance, they create fresh business opportunities. By breaking down existing jobs or business processes into tasks and assessing AI's potential to enhance or automate them, one can establish a successful new venture. This document aims to offer a Business Building Framework tailored for small teams of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
 
 
