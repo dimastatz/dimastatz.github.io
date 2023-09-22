@@ -16,15 +16,15 @@ As technologies advance, they create new business opportunities. Today, there a 
 This document aims to offer a Business Building Framework tailored for small teams of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
 
 
-## Automation vs Disruption
-Automation and disruption are two distinct concepts, associated with technological advancements. Automation focuses on optimizing and streamlining existing processes, while disruption aims to create entirely new paradigms, often through the introduction of groundbreaking technologies or business models. Disruptive businesses demand significant initial investment and considerable time for profitable scaling. That's why our framework, designed for small, financially limited developer teams, places a strong emphasis on Automation.
+## Rule 1: Prefer Automation over Disruption
+Automation and disruption are two distinct concepts, associated with technological advancements. Automation focuses on optimizing and streamlining existing processes, while disruption aims to create entirely new paradigms, often through the introduction of groundbreaking technologies or business models. Disruptive businesses demand significant initial investment and considerable time for profitable scaling. That's why small, financially limited developer teams, should place a strong emphasis on Automation.
 
 
-## Hardware and Infrastructure  
-Entering the Hardware and Infrastructure markets is challenging due to high initial investment, regulatory compliance, long product development cycles and intense competition. All these factors collectively contribute to the difficulty small startups face in entering and competing in this market. Overall, this market is not recommended for building money machines.
+## Rule 2: Avoid Hardware and Infrastructure Markets
+Entering the Hardware and Infrastructure markets is challenging due to high initial investment, regulatory compliance, long product development cycles and intense competition. All these factors collectively contribute to the difficulty small startups face in entering and competing in this market. Overall, this market is not recommended for building small bussiness.
 
 
-## Developer Tools
+## Rule 3: Double Check On Developer Tools
 AI Developer tools are created by teams of AI Scientists and Software Engineers. They understand how computers learn and use their skills to build software that helps others create AI programs easily. Starting a business in this domain requires a high level of expertise and a significant time for research in AI due to the complexity of products. This field revolves around innovating and crafting something new from scratch at just the right time. The success rate here is low, but the potential rewards can be immense.
 
 
