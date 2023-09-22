@@ -30,7 +30,10 @@ A team of skilled Software Developers can launch a business in this field withou
 3. Translate a library from one programming language to another and create a library with free and premium versions. For examples, Plotly Pro is a paid Python library and can be translated to Java.
 
 ## Software Services
-Software Services domain just like Software Frameworks can be profitable for software developers. However, creating Services is more challenging due to the need to manage infrastructure, deployment, and security. On the other hand, Services have a broader audience as businesses can directly use them, while Frameworks are primarily for other developers. The strategy for finding a niche in Software Services are somewhat different. Here creators should have some knowledge in bussiness that they are going to serve. 
+Software Services domain just like Software Frameworks can be profitable for software developers. However, creating Services is more challenging due to the need to manage infrastructure, deployment, and security. On the other hand, Services have a broader audience as businesses can directly use them, while Frameworks are primarily for other developers. Services creators should have a good understanding of bussiness they are going to serve. For example the following framework for finding the righ niche can work:
+1. Choose a bissness and analyze the responsibilities of both employees and contractors, and break them down into individual tasks.
+2. Evaluate if each task can benefit from assistance or automation through AI tools like supervised learning or generative AI.
+3. Determine the value of implementing these changes.
 
 
 
