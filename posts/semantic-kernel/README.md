@@ -18,6 +18,6 @@ RAG consists of two flows: domain data embedding and text generation. Embedding 
  
 
 ## The Straightforward Implementation
-So
+[TBD]()
 
 

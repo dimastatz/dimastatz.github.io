@@ -37,6 +37,9 @@ Software Services, like Software Frameworks, can be a lucrative venture for deve
 3. Evaluate the worth of these changes. If the new service can save approximately 80% of time in a specific business role, it is certainly worthwhile to develop it.
 
 
+## Software Applications
+
+
 
 
 
