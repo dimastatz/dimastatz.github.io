@@ -25,7 +25,7 @@ Entering the Hardware and Infrastructure markets is challenging due to high init
 
 
 ## Rule 3: Double Check On Developer Tools
-AI Developer tools are created by teams of AI Scientists and Software Engineers. They understand how computers learn and use their skills to build software that helps others create AI programs easily. Starting a business in this domain requires a high level of expertise and a significant time for research in AI due to the complexity of products. This field revolves around innovating and crafting something new from scratch at just the right time. The success rate here is low, but the potential rewards can be immense.
+This field revolves around disruption and crafting something new from scratch at just the right time. AI Developer tools are created by teams of AI Scientists and Software Engineers. They understand how computers learn and use their skills to build software that helps others create AI programs easily. Starting a business in this domain requires a high level of expertise and a significant time for research in AI due to the complexity of products. The potential rewards can be immense, but the success rate here is low.
 
 
 ## Rule 4: Software Frameworks Is A Starting Point
@@ -42,7 +42,7 @@ Software Services, like Software Frameworks, can be a lucrative venture for deve
 3. Evaluate the worth of these changes. If the new service can save approximately 80% of time in a specific business role, it is certainly worthwhile to develop it.
 
 
-## Rule 4: Software Applications
+## Rule 5: Software Applications
 While SaaS excels in cloud-based computing, Software Applications provide distinct advantages in accessibility, user experience, device integration, and offline functionality. They complement SaaS solutions, meeting the preferences of users on a specific platform. Developing Software Applications is often more time-consuming and intricate compared to SaaS. It's recommended to consider building an app after establishing a successful SaaS, especially if you aim to expand functionality or reach a broader audience across Android, iPhone, MacOS or Windows users.
 
 
