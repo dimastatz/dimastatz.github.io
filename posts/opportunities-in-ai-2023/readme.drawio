@@ -1,29 +1,128 @@
 <mxfile host="65bd71144e">
     <diagram id="8Y4KH_lPB0XhC0yeXy73" name="Page-1">
-        <mxGraphModel dx="574" dy="565" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="652" dy="565" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Hardware&lt;br&gt;AMD, NVIDIA, INTEL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="2" value="Hardware&lt;br&gt;AMD, NVIDIA, INTEL" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="110" y="271" width="417" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Infrastructure&lt;br&gt;AMZN, MSFT, GOOG" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="5" value="Infrastructure&lt;br&gt;AMZN, MSFT, GOOG" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="110" y="223" width="208" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Developer Tools&lt;br&gt;OpenAI, Hugging Face" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="8" value="Developer Tools&lt;br&gt;OpenAI, Hugging Face" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="318" y="223" width="208" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Frameworks" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="14" value="Frameworks" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="110" y="176" width="417" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="15" value="Services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="111" y="127" width="417" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Applications B2B" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="16" value="Applications B2B" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="110" y="79" width="207" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Applications B2C" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="17" value="Applications B2C" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="316" y="80" width="211" height="48" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="i6D2UPtqz7Unb7ez_Qy8" name="Page-2">
+        <mxGraphModel dx="652" dy="488" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-6" style="html=1;exitX=0.63;exitY=0.981;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="z0iLv1JTc5zJkiQug6Cb-3" target="z0iLv1JTc5zJkiQug6Cb-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-7" value="automation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#990000;" parent="z0iLv1JTc5zJkiQug6Cb-6" vertex="1" connectable="0">
+                    <mxGeometry x="-0.0187" relative="1" as="geometry">
+                        <mxPoint x="19" y="-11" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-3" value="Research specific businesses or individual pursuits and generate ideas." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="33" width="127" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-4" value="Disruptive ventures require investment and time for growth. It is not for small teams with limited funds." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=#bac8d3;strokeColor=#23445d;fontColor=#808080;" parent="1" vertex="1">
+                    <mxGeometry x="175" y="144" width="127" height="94" as="geometry"/>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-5" value="In chosen business, break all activities into specific tasks." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="337" y="145" width="127" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-8" style="html=1;exitX=0.394;exitY=0.997;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="z0iLv1JTc5zJkiQug6Cb-3" target="z0iLv1JTc5zJkiQug6Cb-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="319.5" y="101" as="sourcePoint"/>
+                        <mxPoint x="319.5" y="165" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="z0iLv1JTc5zJkiQug6Cb-9" value="disruption" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontColor=#990000;" parent="z0iLv1JTc5zJkiQug6Cb-8" vertex="1" connectable="0">
+                    <mxGeometry x="-0.0187" relative="1" as="geometry">
+                        <mxPoint x="-17" y="-11" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-1" value="Assess tasks for the automation potential (using supervised or generative AI)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="337" y="224" width="127" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-3" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="z0iLv1JTc5zJkiQug6Cb-5" target="4T3H7vz9YrgMUI498nlF-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="351.25" y="80" as="sourcePoint"/>
+                        <mxPoint x="402" y="146" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-7" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;analyze tasks&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;" vertex="1" connectable="0" parent="4T3H7vz9YrgMUI498nlF-3">
+                    <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
+                        <mxPoint x="-5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-8" value="Design a solution and assess if it can save about 80% of time in a specific business role." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="320" width="127" height="81" as="geometry"/>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-9" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4T3H7vz9YrgMUI498nlF-1" target="4T3H7vz9YrgMUI498nlF-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="400.5" y="177" as="sourcePoint"/>
+                        <mxPoint x="401.0962732919254" y="225" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-10" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;has automation potential&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;" vertex="1" connectable="0" parent="4T3H7vz9YrgMUI498nlF-9">
+                    <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
+                        <mxPoint x="-5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-11" style="html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4T3H7vz9YrgMUI498nlF-1" target="z0iLv1JTc5zJkiQug6Cb-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="402.5" y="321" as="sourcePoint"/>
+                        <mxPoint x="402.5" y="369" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="493" y="257"/>
+                            <mxPoint x="493" y="65"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-12" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;has no automation &lt;br&gt;potential&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;labelBackgroundColor=none;" vertex="1" connectable="0" parent="4T3H7vz9YrgMUI498nlF-11">
+                    <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
+                        <mxPoint x="10" y="96" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-13" style="html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4T3H7vz9YrgMUI498nlF-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="466" y="288.5" as="sourcePoint"/>
+                        <mxPoint x="383" y="65.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="496" y="361"/>
+                            <mxPoint x="496" y="193"/>
+                            <mxPoint x="492" y="193"/>
+                            <mxPoint x="492" y="66"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-14" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#990000&quot;&gt;cannot save &lt;br&gt;80% of time&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;labelBackgroundColor=none;" vertex="1" connectable="0" parent="4T3H7vz9YrgMUI498nlF-13">
+                    <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
+                        <mxPoint x="5" y="149" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4T3H7vz9YrgMUI498nlF-15" value="Design a solution and assess if it can save about 80% of time in a specific business role." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="332" y="432" width="127" height="81" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
