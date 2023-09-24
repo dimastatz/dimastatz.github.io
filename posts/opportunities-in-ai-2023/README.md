@@ -13,7 +13,7 @@ As technologies advance, they create new business opportunities. Today, there a 
   </tr>
 </table> 
 
-This document aims to offer a Business Building Framework tailored for small teams of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
+This document aims to offer a Business Building Framework tailored for <b>small teams</b> of software developers. With this approach, developers can leverage their expertise for a new business venture with minimal financial investment.
 
 
 ## Core Concepts
