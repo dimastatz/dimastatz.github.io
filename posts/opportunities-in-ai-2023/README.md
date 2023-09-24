@@ -44,8 +44,8 @@ Software Services, like Software Frameworks, can be a lucrative venture for deve
 3. Evaluate the worth of these changes. If the new service can save approximately 80% of time in a specific business role, it is certainly worthwhile to develop it.
 
 
-### Software Applications
-While SaaS excels in cloud-based computing, Software Applications provide distinct advantages in accessibility, user experience, device integration, and offline functionality. They complement SaaS solutions, meeting the preferences of users on a specific platform. Developing Software Applications is often more time-consuming and intricate compared to SaaS. It's recommended to consider building an app after establishing a successful SaaS, especially if you aim to expand functionality or reach a broader audience across Android, iPhone, MacOS or Windows users.
+### Develop Applications Only When Absolutely Necessary.
+While SaaS excels in cloud-based computing, Platform Specific Applications provide distinct advantages in accessibility, user experience, device integration, and offline functionality. They complement SaaS solutions, meeting the preferences of users on a specific platform. Developing Software Applications is more time-consuming and chalanging compared to SaaS, and the maintanence ca n be a nightmare as issues may arise from variations in platform architecture, APIs, or hardware. It's recommended to consider building an app after establishing a successful SaaS, especially if you aim to expand functionality or reach a broader audience across Android, iPhone, MacOS or Windows users.
 
 
 ## Business Building Framework
