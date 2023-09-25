@@ -121,7 +121,7 @@
                         <mxPoint x="14" y="151" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4T3H7vz9YrgMUI498nlF-15" value="Develop an open-source framework, verify its accuracy, share with community, and seek feedback." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" parent="1" vertex="1">
+                <mxCell id="4T3H7vz9YrgMUI498nlF-15" value="Develop an open-source framework, verify its accuracy, build community, and seek feedback." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontFamily=Comic Sans MS;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="332" y="432" width="127" height="81" as="geometry"/>
                 </mxCell>
                 <mxCell id="wEgAXjn37LDDnNG_g1c3-1" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4T3H7vz9YrgMUI498nlF-8" target="4T3H7vz9YrgMUI498nlF-15">
@@ -177,7 +177,7 @@
                         <mxPoint x="396.5" y="433" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="wEgAXjn37LDDnNG_g1c3-9" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#990000&quot;&gt;have no resources &lt;br&gt;for SAAS&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;" vertex="1" connectable="0" parent="wEgAXjn37LDDnNG_g1c3-8">
+                <mxCell id="wEgAXjn37LDDnNG_g1c3-9" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#990000&quot;&gt;have no resource&lt;br&gt;to create SAAS&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#808080;" vertex="1" connectable="0" parent="wEgAXjn37LDDnNG_g1c3-8">
                     <mxGeometry x="-0.0577" y="1" relative="1" as="geometry">
                         <mxPoint x="82" y="-1" as="offset"/>
                     </mxGeometry>
