@@ -51,6 +51,7 @@ While SaaS excels in cloud-based computing, Platform Specific Applications provi
 
 
 ## Business Building Framework
+With Core Concepts established, we create the Business Building Framework to guide developers in entrepreneurship with confidence and purpose:
 
 <table width="256px">
   <tr>
