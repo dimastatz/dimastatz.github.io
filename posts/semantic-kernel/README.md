@@ -19,5 +19,3 @@ RAG consists of two flows: domain data embedding and text generation. Embedding 
 
 ## Building Blocks
 To build a Gen AI applications we need building blocks: Flow, State and Side Effects. Flow governs the order of operations, State represents the current data, and Side Effects are changes that happen outside of a local scope. 
-
-
