@@ -3,7 +3,7 @@
   <h1 align="center"> ChatPal </h1> 
   <h3>ChatPal: English Language Learning in Virtual Reality</br></h3>
   <kbd>
-  <img src="./images/chatpal.png" width="256px"> 
+  <img src="/posts/chatpal/images/chatpal.png" width="256px"> 
     </br></br>
   <img src="https://img.shields.io/badge/Progress-1%25-red"> <img src="https://img.shields.io/badge/Feedback-Welcome-green">
   </br></br>
