@@ -1,14 +1,13 @@
 
 <div align="center">
   <h1 align="center">ChatPal - Press Release</h1> 
-  <h3>ChatPal: English Learning Enhanced with VR</br></h3>
   <kbd>
   <img src="/posts/chatpal/images/chatpal.png" width="256px"> 
   </br>
   </kbd>
 </div>
 
-# ChatPal: English Language Learning in Virtual Reality
+# ChatPal: English Learning Enhanced with VR
 
 ## Project Overview
 ChatPal is an immersive English language learning game designed for the Oculus VR platform. Inspired by the Tamagotchi concept, ChatPal allows kids to interact with a virtual parrot while engaging in language learning activities. Through conversations and interactive exercises, players will improve their English skills in a fun and engaging virtual environment.
