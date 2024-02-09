@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1 align="center"> ChatPal </h1> 
-  <h3>ChatPal - Press Release</br></h3>
+  <h1 align="center">ChatPal - Press Release</h1> 
+  <h3>ChatPal: English Learning Enhanced with VR</br></h3>
   <kbd>
   <img src="/posts/chatpal/images/chatpal.png" width="256px"> 
   </br>
