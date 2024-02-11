@@ -1,14 +1,12 @@
 <div align="center">
-  <h1 align="center">Aedo - The Python Speech Engine</h1> 
+  <h1 align="center">Aedo</h1> 
+  <h2 align="center">Aedo: Python's Advanced Speech Engine</h2> 
   <kbd>
   <img src="/posts/aedo/images/aedo.png" width="256px"> 
   </br>
   </kbd>
 </div>
 
-
-# Aedo
-Unlocking Seamless Conversations: Exploring Aedo - The Python Engine Bridging Speech to Text and Text to Speech
 
 ## Background
 
