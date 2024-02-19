@@ -30,7 +30,7 @@ The increasing demand for multimedia processing has led to the emergence of nume
 
 
 ## Objectives
-The following objectives guiding the creation of a framework, focusing on ease of adoption for developers, scalability for production-ready services, seamless integration across programming languages, and efficient utilization of established data processing platforms. By aligning with these objectives, the envisioned framework aims to revolutionize the landscape of multimedia processing, enabling developers to meet the growing demands of real-time analysis with ease and efficiency.
+The objectives presented here result from  examining the problem statement from previous section. They focus on improving multimedia processing frameworks in key areas. These objectives aim to create a central hub for real-time video and data analysis, make the framework easy for developers to use for scalable services, ensure smooth integration across different programming languages, implement scalability features using established data processing platforms, and enhance existing frameworks for centralized, real-time analysis. These goals aim to tackle challenges and drive innovation in multimedia processing technologies.
 - Develop a multimedia processing framework capable of serving as a centralized hub for real-time analysis of video and data.
 - Ensure that the framework is easily consumable by application developers, facilitating the creation of production-ready and scalable services.
 - Enable seamless integration across different programming languages to enhance accessibility and adoption among developers.
