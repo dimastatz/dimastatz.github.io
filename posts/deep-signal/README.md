@@ -29,4 +29,11 @@ This increase in data volume, fueled by the rise of remote communication methods
 The increasing demand for multimedia processing has led to the emergence of numerous frameworks such as FFmpeg, OpenCV, and GStreamer, offering extensive toolsets for manipulating and analyzing multimedia content. However, these frameworks lack the capability to function as centralized hubs for real-time video and data analysis, highlighting the need for the development of frameworks that are easily accessible to application developers and can generate scalable, production-ready services. Ideally, such frameworks should offer ease of integration across different programming languages and scalability through integration with established data processing platforms. Despite the capabilities of TensorFlow, PyTorch, VLC media player, and MEncoder in processing audio and video data, there persists a challenge in finding frameworks that can efficiently meet the requirements for centralized, real-time analysis while ensuring ease of adoption and scalability for developers.
 
 
-## Objectives 
+## Objectives
+The following objectives guiding the creation of a framework, focusing on ease of adoption for developers, scalability for production-ready services, seamless integration across programming languages, and efficient utilization of established data processing platforms. By aligning with these objectives, the envisioned framework aims to revolutionize the landscape of multimedia processing, enabling developers to meet the growing demands of real-time analysis with ease and efficiency.
+- Develop a multimedia processing framework capable of serving as a centralized hub for real-time analysis of video and data.
+- Ensure that the framework is easily consumable by application developers, facilitating the creation of production-ready and scalable services.
+- Enable seamless integration across different programming languages to enhance accessibility and adoption among developers.
+- Implement scalability features within the framework, allowing it to leverage well-known data processing platforms for efficient scaling as per demand.
+- Enhance the capabilities of existing frameworks to meet the requirements for centralized, real-time analysis while maintaining ease of use and scalability.
+
