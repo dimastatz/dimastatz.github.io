@@ -37,3 +37,6 @@ The following objectives guiding the creation of a framework, focusing on ease o
 - Implement scalability features within the framework, allowing it to leverage well-known data processing platforms for efficient scaling as per demand.
 - Enhance the capabilities of existing frameworks to meet the requirements for centralized, real-time analysis while maintaining ease of use and scalability.
 
+
+## Apache Spark
+[TBD]()
