@@ -39,4 +39,4 @@ The objectives presented here result from  examining the problem statement from 
 
 
 ## Apache Spark
-[TBD]()
+[Apache Spark](https://spark.apache.org/) – a powerhouse in the world of big data processing. Recognized for its unparalleled ability to handle massive datasets with speed and efficiency, Apache Spark presents a compelling solution to the challenge of multimedia analysis. By extending its capabilities, researchers and data scientists have begun exploring new frontiers in multimedia processing, unlocking insights previously deemed inaccessible.
