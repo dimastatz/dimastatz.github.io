@@ -26,7 +26,7 @@ With the widespread use of cameras and microphones, along with the growing trend
 This increase in data volume, fueled by the rise of remote communication methods, highlights the wide-ranging importance of video and audio analysis technologies.
 
 ## Problem Statement
-The increasing demand for multimedia processing has led to the emergence of numerous frameworks such as FFmpeg, OpenCV, and GStreamer, offering extensive toolsets for manipulating and analyzing multimedia content. However, these frameworks lack the capability to function as centralized hubs for real-time video and data analysis, highlighting the need for the development of frameworks that are easily accessible to application developers and can generate scalable, production-ready services. Ideally, such frameworks should offer ease of integration across different programming languages and scalability through integration with established data processing platforms. Despite the capabilities of TensorFlow, PyTorch, VLC media player, and MEncoder in processing audio and video data, there persists a challenge in finding frameworks that can efficiently meet the requirements for centralized, real-time analysis while ensuring ease of adoption and scalability for developers.
+The increasing demand for multimedia processing has led to the emergence of numerous frameworks such as [FFmpeg](https://ffmpeg.org/), [OpenCV](https://opencv.org/), and [GStreamer](https://gstreamer.freedesktop.org/), [OpenAI Whisper](https://openai.com/research/whisper) offering extensive toolsets for manipulating and analyzing multimedia content. However, these frameworks lack the capability to function as centralized hubs for real-time video and data analysis, highlighting the need for the development of frameworks that are easily accessible to application developers and can generate scalable, production-ready services. Ideally, such frameworks should offer ease of integration across different programming languages and scalability through integration with established data processing platforms. Despite the capabilities of TensorFlow, PyTorch, VLC media player, and MEncoder in processing audio and video data, there persists a challenge in finding frameworks that can efficiently meet the requirements for centralized, real-time analysis while ensuring ease of adoption and scalability for developers.
 
 
 ## Objectives
@@ -39,4 +39,11 @@ The objectives presented here result from  examining the problem statement from 
 
 
 ## Apache Spark
-[Apache Spark](https://spark.apache.org/) – a powerhouse in the world of big data processing. Recognized for its unparalleled ability to handle massive datasets with speed and efficiency, Apache Spark presents a compelling solution to the challenge of multimedia analysis. By extending its capabilities, researchers and data scientists have begun exploring new frontiers in multimedia processing, unlocking insights previously deemed inaccessible.
+[Apache Spark](https://spark.apache.org/) emerges as a versatile and powerful platform for data processing and analysis. Originally designed for large-scale data processing of structured and unstructured data, Apache Spark can be extended to handle multimedia data with relative ease. Its distributed computing architecture and support for various programming languages make it an attractive choice for processing massive volumes of video and audio data efficiently.
+
+
+## Deep Signal
+Recognizing the need for a unified solution for multimedia analysis, Deep Signal steps in to fill the void. Built on top of Apache Spark, Deep Signal harnesses the capabilities of this robust framework to provide comprehensive video and audio analysis at scale. By leveraging Apache Spark's distributed computing capabilities, Deep Signal empowers organizations to extract actionable insights from their multimedia data swiftly and effectively. From sentiment analysis in customer service calls to content classification in video streams, Deep Signal offers a versatile toolkit for unlocking the potential of multimedia data.
+
+
+
