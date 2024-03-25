@@ -19,7 +19,6 @@ Today, Data Analysis Frameworks excel in providing developers with tools for pro
 AI depends on high-quality data, which needs to be plentiful and in a format suitable for processing and transfer. Structured and semi-structured data are advantageous because they are easy to analyze and transfer, especially with modern data analysis frameworks. Here’s a simple example illustrating how Apache Spark can effectively read, clean, and analyze structured data at a large scale.
 
 ```scala
-
 val df = spark.read
       .option("header", "true")
       .csv(s3Path)
